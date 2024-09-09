@@ -1,0 +1,26 @@
+h1 {
+  text-align: start;
+}
+body {
+  background-color: rgb(235, 170, 158);
+}
+
+header {
+  background-color: blue;
+}
+
+main {
+  background-color: aquamarine;
+}
+
+section {
+  background-color: blueviolet;
+}
+
+footer {
+  background-color: bisque;
+}
+
+blockquote {
+  background-color: green;
+}
